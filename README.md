@@ -14,7 +14,7 @@ The YouTube Playlist Downloader is a Python script that allows users to download
 ## Requirements
 
 - Python 3.x
-- [Pytube]https://pytube.io/en/latest/
+- Pytube Library
 
 ## Installation
 
